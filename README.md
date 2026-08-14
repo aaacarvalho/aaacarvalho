@@ -14,9 +14,9 @@
 
 ## About
 
-Senior full-stack engineer with production experience across **NestJS**, **React**, and **Angular**. I spend most of my time on typed backends and the API design underneath them, and the last two years shipping AI-integrated features into real products rather than demos.
+Senior full-stack engineer with production experience across **NestJS**, **React**, and **Angular**. I spend most of my time on the backends and the API design underneath them, and the last two years shipping AI-integrated features into real products.
 
-Currently **CTO and co-founder at Alyx AI**, an AI-powered platform for language teachers and students — NestJS, Angular and PostgreSQL on web, React Native on mobile.
+Currently **CTO and co-founder at Alyx AI**, an AI-powered platform for language teachers and students.
 
 <br/>
 
