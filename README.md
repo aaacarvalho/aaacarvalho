@@ -5,9 +5,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Rio_de_Janeiro,_Brazil-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
 <a href="mailto:alvaro.azeredo@hotmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alvaro-carvalho-backend-developer"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
